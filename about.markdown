@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a second year undergraduate at Duke University, majoring in computer science, and minoring in bioinformatics and entrepreneurship. Before attending Duke, I had an incredible first year at Washington University in St. Louis. Major shoutouts to my amazing professors including [Dr. Li Ding](https://dinglab.wustl.edu/), who introduced me to cancer genomics back in high school.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My interests are focused around algorithms, statistics, machine learning, and genomics. Studies aside, I enjoy tennis, computer illustration/photography, and exploring foods.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can find my resume [here.]({{ felixwho.github.io }}/assets/Resume07052020.pdf)

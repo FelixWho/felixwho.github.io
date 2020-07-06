@@ -10,7 +10,7 @@ These are readings I've enjoyed and want to keep track of, maybe to look back on
 
 ### General Data Structures and Algorithms
 
-- Introduction to Algorithms, CLRS
+- Introduction to Algorithms, *CLRS*
 - 'nuff said.
 
 ### Statistics and Machine Learning

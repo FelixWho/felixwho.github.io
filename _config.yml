@@ -20,8 +20,8 @@
 
 title: Felix Hu
 email: felix.hu@duke.edu
-description: A collection of computer science, biology, and possibly deep thoughts.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+description: Computer science, biology, and possibly deep thoughts.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyll
 github_username:  felixwho

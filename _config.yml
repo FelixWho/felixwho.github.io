@@ -22,7 +22,7 @@ title: Felix Hu
 email: felix.hu@duke.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of computer science, biology, 
-and random thoughts.
+and possibly deep thoughts.
 baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyll

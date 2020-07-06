@@ -23,15 +23,9 @@ permalink: /resources/
 ### USA Biology Olympiad
 
 - Campbell Biology, Urry et al.
-
 - Biology of Plants, Raven
-
 - Biology, Raven
-
 - Biochemistry, Richard Harvey
-
 - Vander's Human Physiology, Widmaier et al.
-
 	- A close substitute is Martini
-
 - Molecular Biology of the Cell, Albert

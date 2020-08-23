@@ -5,8 +5,10 @@
 layout: home
 ---
 
-I'm a second year undergraduate at Duke University, majoring in computer science, and minoring in bioinformatics and entrepreneurship. Before attending Duke, I had an incredible first year at Washington University in St. Louis. Major shoutouts to my amazing professors including [Dr. Li Ding](https://dinglab.wustl.edu/), who introduced me to cancer genomics back in high school.
+I'm a second year undergraduate at Duke University, majoring in computer science+stats, and minoring in bioinformatics and entrepreneurship. 
 
-My interests are focused around algorithms, statistics, and genomics. Studies aside, I enjoy tennis, computer illustration/photography, and exploring foods. Occasionally, I will competitively program.
+Before attending Duke, I had an incredible first year at Washington University in St. Louis. Major shoutouts to my amazing professors there including [Dr. Li Ding](https://dinglab.wustl.edu/), who introduced me to cancer genomics back in high school.
 
-You can find my resume [here.]({{ felixwho.github.io }}/assets/Resume07052020.pdf)
+My interests are focused around algorithms, statistics, and genomics. Studies aside, I enjoy tennis, computer illustration/photography, minimalist UI/UX design (interesting that I chose this Jekyll theme, huh), and concocting foods in my kitchen. Occasionally, I will competitively program as I did on Washington University's ICPC team.
+
+You can find some stuff about me in my resume [here.]({{ felixwho.github.io }}/assets/Resume07052020.pdf)

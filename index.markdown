@@ -6,7 +6,7 @@ layout: home
 ---
 
 <html>
-	<img src="{{ felixwho.github.io }}/assets/IMG_1454_polarr.JPEG" style="width: 50vw; min-width: 100px"/>
+	<img src="{{ felixwho.github.io }}/assets/IMG_1454_polarr.JPEG" style="width: 30vw; min-width: 100px"/>
 </html>
 
 I'm a second year undergraduate at Duke University, majoring in computer science+stats, and minoring in bioinformatics and entrepreneurship. 

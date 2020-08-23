@@ -11,4 +11,3 @@ I'm still deciding on what to do with this page. Stay "tuned"!
 	<iframe src="https://open.spotify.com/embed/track/1BHtfF2QyAvPg8CjShwaHv" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </html>
 
-# Will Make This a Blog Someday

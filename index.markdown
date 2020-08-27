@@ -9,7 +9,7 @@ layout: home
 	<p style="text-align:center;"><img src="{{ felixwho.github.io }}/assets/IMG_1454_polarr.JPEG" style="width: 30vw; min-width: 100px; text-align:center"/></p>
 </html>
 
-I'm a second year undergraduate at Duke University, majoring in computer science+stats, and minoring in bioinformatics and entrepreneurship. 
+I'm a second year undergraduate at Duke University, majoring in computer science+stats, and minoring in bioinformatics and finance. 
 
 Before attending Duke, I had an incredible first year at Washington University in St. Louis. Major shoutouts to my amazing professors there including [Dr. Li Ding](https://dinglab.wustl.edu/), who introduced me to cancer genomics back in high school.
 

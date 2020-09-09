@@ -16,11 +16,11 @@ A Washington University Sling Health backed initiative that uses NLP to answer u
 
 ### BULLSEYE | Capital One Summit Hackathon | Winter 2020
 
-Find commonalities in entertainment preferences to pinpoint activies of interest to a group of users. Used TensorFlow on transaction history to discover user preferences and Google Maps API to discover interesting locations. https://github.com/FelixWho/c1-summit
+Find commonalities in entertainment preferences to pinpoint activies of interest to a group of users. Used TensorFlow on transaction history to discover user preferences and Google Maps API to discover interesting locations. [Github](https://github.com/FelixWho/c1-summit)
 
 ### ShureSoundVisualization | Dare Mighty Things Hackathon | Fall 2019
 
-A proof of concept for audio quality testing. Our initial goal was to compare audio in a room to a ground truth audio to test the room's acoustic quality. While this proved too challenging to complete in a night, it was a fun build with good people involved! https://github.com/FelixWho/ShureSoundVisualization
+A proof of concept for audio quality testing. Our initial goal was to compare audio in a room to a ground truth audio to test the room's acoustic quality. While this proved too challenging to complete in a night, it was a fun build with good people involved! [Github](https://github.com/FelixWho/ShureSoundVisualization)
 
 ### MuSiC2 | Ding Lab | 2018 - 2019
 
@@ -28,6 +28,6 @@ Built visualization and genomic data analysis tools in R and Python for Ding Lab
 
 ### Red Scare and Mortal Brombat | Spring 2018
 
-Two games built in UCI game Java framework. Built out of boredom to service your boredom. https://github.com/FelixWho/RedScare, https://github.com/FelixWho/MortalBrombat
+Two games built in UCI game Java framework. Built out of boredom to service your boredom. [Red Scare](https://github.com/FelixWho/RedScare) [Mortal Brombat](https://github.com/FelixWho/MortalBrombat)
 
  

@@ -12,7 +12,7 @@ An options trading assistant that leverages criterion backtesting and machine le
 
 ### Safinia | Spring 2020
 
-A Washington University Sling Health backed initiative that uses NLP to answer users' questions on medical terms and diseases. This project is partnered with St. Louis city schools and the WashU School of Medicine. Private Github due to organization policy.
+A Washington University Sling Health backed initiative that uses NLP to answer users' questions on medical terms and diseases. This project is partnered with St. Louis city schools and the WashU School of Medicine. Private Github due to organization policy. [Site in progress](https://safinia.health/)
 
 ### BULLSEYE | Capital One Summit Hackathon | Winter 2020
 

@@ -9,9 +9,9 @@ layout: home
 	<p style="text-align:center;"><img src="{{ felixwho.github.io }}/assets/IMG_1454_polarr.JPEG" style="width: 30vw; min-width: 100px; text-align:center"/></p>
 </html>
 
-I'm a third year undergraduate at Duke University, majoring in computer science+math, and minoring in bioinformatics. 
+I'm a fourth year undergraduate at Duke University, double majoring in computer science and math. 
 
-Before attending Duke, I had an incredible first year at Washington University in St. Louis.
+Before attending Duke, I attended Washington University in St. Louis for my first year of college.
 
 My interests are focused around algorithms and statistics. Studies aside, I enjoy tennis, computer illustration/photography, minimalist UI/UX design, and cooking. Occasionally, I will competitively program as I did on Washington University's ICPC team.
 

@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import "../styles/global.css";
+---
+
+<BaseLayout>
+  <main class="landing" aria-labelledby="site-title">
+    <header class="site-header">
+      <h1 class="wordmark" id="site-title"><a href="/">Felix Hu</a></h1>
+
+      <nav aria-label="Contact links">
+        <a href="https://www.linkedin.com/in/felix-hu/" rel="me">LinkedIn</a>
+        <a href="mailto:felixhu333@gmail.com">Email</a>
+      </nav>
+    </header>
+
+    <section class="intro" aria-label="Introduction">
+      <p class="lede">I study statistics and computing</p>
+
+      <div class="details">
+        <p>Previously, I worked at DRW, Snorkel AI, Meta, and more.</p>
+        <p>I graduated from Duke University, where I enjoyed many sodas at Bella Union.</p>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

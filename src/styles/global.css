@@ -137,3 +137,97 @@ nav a:focus-visible::after {
   font-family: Iowan Old Style, Baskerville, "Times New Roman", serif;
   font-size: clamp(2.75rem, 8vw, 6rem);
 }
+
+.soda-page {
+  margin: 0 auto;
+  max-width: 70rem;
+  min-height: 100svh;
+  padding: 30px 34px 4rem;
+}
+
+.soda-heading {
+  align-items: end;
+  display: flex;
+  justify-content: space-between;
+  padding: clamp(3rem, 8vh, 6rem) 0 clamp(1.75rem, 4vh, 3rem);
+}
+
+.section-kicker {
+  color: #70716c;
+  font-size: 0.73rem;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.8rem;
+}
+
+.soda-heading h1 {
+  font-family: Iowan Old Style, Baskerville, "Times New Roman", serif;
+  font-size: clamp(2.6rem, 6vw, 5.5rem);
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 0.95;
+  margin: 0;
+}
+
+.ranking-tool {
+  border-top: 1px solid #d2d3cd;
+}
+
+.tier-row {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr;
+  min-height: 7rem;
+}
+
+.tier-row + .tier-row {
+  border-top: 1px solid #d2d3cd;
+}
+
+.tier-row h2 {
+  align-items: center;
+  border-right: 1px solid #d2d3cd;
+  display: flex;
+  font-family: Iowan Old Style, Baskerville, "Times New Roman", serif;
+  font-size: 2.25rem;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.04em;
+  margin: 0;
+}
+
+.tier-s h2 { color: #a44232; }
+.tier-a h2 { color: #37705b; }
+.tier-b h2 { color: #3c6e98; }
+.tier-c h2 { color: #75623c; }
+
+.tier-row ul {
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  list-style: none;
+  margin: 0;
+  min-height: 7rem;
+  padding: 1rem;
+}
+
+.soda-item {
+  background: #fbfbf8;
+  border: 1px solid #bcbdb6;
+  border-radius: 4px;
+  max-width: 100%;
+  padding: 0.48rem 0.7rem;
+}
+
+@media (max-width: 560px) {
+  .soda-page {
+    padding: 22px 20px 3rem;
+  }
+
+  .tier-row {
+    grid-template-columns: 3.6rem 1fr;
+  }
+
+  .tier-row h2 {
+    font-size: 1.8rem;
+  }
+}

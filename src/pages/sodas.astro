@@ -1,0 +1,44 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import "../styles/global.css";
+
+const tiers = [
+  { label: "S", sodas: ["Dr. Pepper", "Fitz's", "San Pellegrino"] },
+  { label: "A", sodas: ["Sprite", "Fanta Orange", "Pepsi", "Mug Root Beer"] },
+  { label: "B", sodas: ["Coca-Cola", "Baja Blast", "Mello Yello", "Barq's Root Beer", "A&W Root Beer", "Cheerwine"] },
+  { label: "C", sodas: ["Mountain Dew"] }
+];
+---
+
+<BaseLayout title="Soda Ranking | Felix Hu" description="Felix Hu's soda ranking">
+  <main class="soda-page" aria-labelledby="soda-title">
+    <header class="site-header">
+      <p class="wordmark"><a href="/">Felix Hu</a></p>
+
+      <nav aria-label="Site links">
+        <a href="/">Home</a>
+        <a href="https://www.linkedin.com/in/felix-hu/" rel="me">LinkedIn</a>
+        <a href="mailto:felixhu333@gmail.com">Email</a>
+      </nav>
+    </header>
+
+    <section class="soda-heading">
+      <div>
+        <h1 id="soda-title">Felix's soda rankings</h1>
+      </div>
+    </section>
+
+    <section class="ranking-tool" aria-label="Soda ranking board">
+      <div class="tier-board">
+        {tiers.map((tier) => (
+          <section class={`tier-row tier-${tier.label.toLowerCase()}`}>
+            <h2>{tier.label}</h2>
+            <ul aria-label={`${tier.label} tier sodas`}>
+              {tier.sodas.map((soda) => <li class="soda-item">{soda}</li>)}
+            </ul>
+          </section>
+        ))}
+      </div>
+    </section>
+  </main>
+</BaseLayout>

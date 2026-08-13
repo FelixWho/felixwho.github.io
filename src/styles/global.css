@@ -102,6 +102,15 @@ nav a:focus-visible::after {
   margin-top: 1rem;
 }
 
+.details a {
+  border-bottom: 1px solid currentColor;
+}
+
+.details a:hover,
+.details a:focus-visible {
+  color: #20211f;
+}
+
 @media (max-width: 560px) {
   .landing {
     padding: 22px 20px 18px;

@@ -185,6 +185,7 @@ nav a:focus-visible::after {
   display: grid;
   grid-template-columns: 5.5rem 1fr;
   min-height: 7rem;
+  min-width: 0;
 }
 
 .tier-row + .tier-row {
@@ -207,6 +208,7 @@ nav a:focus-visible::after {
 .tier-a h2 { color: #37705b; }
 .tier-b h2 { color: #3c6e98; }
 .tier-c h2 { color: #75623c; }
+.tier-d h2 { color: #806063; }
 
 .tier-row ul {
   align-content: center;
@@ -216,6 +218,8 @@ nav a:focus-visible::after {
   list-style: none;
   margin: 0;
   min-height: 7rem;
+  min-width: 0;
+  overflow-wrap: anywhere;
   padding: 1rem;
 }
 
@@ -224,6 +228,7 @@ nav a:focus-visible::after {
   border: 1px solid #bcbdb6;
   border-radius: 4px;
   max-width: 100%;
+  overflow-wrap: anywhere;
   padding: 0.48rem 0.7rem;
 }
 
